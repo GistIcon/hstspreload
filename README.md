@@ -15,3 +15,4 @@ To check if a domain satisfies the requirements for preloading (assuming `$PATH`
     hstspreload preloadabledomain wikipedia.org
 
 For full documentation, see <https://godoc.org/github.com/chromium/hstspreload>
+/
